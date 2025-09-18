@@ -1,5 +1,5 @@
 
-# SWtoURDFproject
+# SWtoURDFExerciseproject
 
 This repository showcases my first attempt at converting a SolidWorks robotic arm assembly into a URDF (Unified Robot Description Format) for use in ROS (Robot Operating System). The CAD parts were provided in the tutorial by [Age of Robotics](https://github.com/ageofrobotics/urdf_tutorial), and I focused on assembling them into a functional URDF model.
 
