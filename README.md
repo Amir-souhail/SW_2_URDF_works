@@ -10,15 +10,6 @@ The goal is to make CAD designs easily usable in robotics simulations and applic
 - Exported URDF files
 - Associated meshes (`.STL`, `.DAE`)
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/solidworks-to-urdf.git
-````
-
-2. Open the URDF files in your preferred robotics environment (e.g., ROS, Gazebo, RViz).
-3. Use the provided meshes for visualization and simulation.
-
 ## Notes
 
 * Models are organized by project.
